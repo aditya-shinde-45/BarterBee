@@ -8,7 +8,7 @@ const HomePage = () => {
         {/* Mobile-optimized header */}
         <div className="text-center mb-8 sm:mb-12">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-3 sm:mb-4">
-            Welcome to BarterBee! 🐝
+            Welcome to dep click! 🐝
           </h1>
           <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto px-2">
             Connect, share, and barter with your community. Exchange skills, borrow items, and get opinions - all without money!
