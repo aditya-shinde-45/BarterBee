@@ -170,7 +170,7 @@ const LandingPage = () => {
             <div className="space-y-6 sm:space-y-8 text-center lg:text-left">
               <div>
                 <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-900 leading-tight">
-                  Learn. <span className="text-yellow-500">Lend.</span> Loop.
+                  Learn. <span className="text-yellow-500">Lend.</span> mohit is boss
                 </h1>
                 <p className="text-base sm:text-lg lg:text-xl text-gray-600 mt-4 sm:mt-6 leading-relaxed max-w-2xl mx-auto lg:mx-0">
                   Exchange skills, things, and opinions without money. 
