@@ -173,8 +173,7 @@ const LandingPage = () => {
                   Learn. <span className="text-yellow-500">Lend.</span> mohit is boss
                 </h1>
                 <p className="text-base sm:text-lg lg:text-xl text-gray-600 mt-4 sm:mt-6 leading-relaxed max-w-2xl mx-auto lg:mx-0">
-                  Exchange skills, things, and opinions without money. 
-                  Build meaningful connections in your community through the power of bartering.
+                 hvjbkjvhkcjlghvyvhjl.bkm
                 </p>
               </div>
 
