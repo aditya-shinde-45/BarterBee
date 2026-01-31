@@ -181,7 +181,7 @@ const LandingPage = () => {
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 max-w-md mx-auto lg:mx-0 lg:max-w-none">
                 <Link to="/register" className="w-full sm:w-auto">
                   <Button variant="primary" size="lg" className="w-full sm:w-auto">
-                    Join Now
+                    close Now
                     <ArrowRightIcon className="ml-2 h-5 w-5" />
                   </Button>
                 </Link>
